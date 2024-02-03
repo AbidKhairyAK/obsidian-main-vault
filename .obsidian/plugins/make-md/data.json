@@ -36,8 +36,7 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Main": [
-      "/",
-      "Excalidraw"
+      "/"
     ]
   },
   "expandedSpaces": [
@@ -74,7 +73,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1706778165764,
+  "spacesAutoBackupLast": 1706961884399,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "alias",
