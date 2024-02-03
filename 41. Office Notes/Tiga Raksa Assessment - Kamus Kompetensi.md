@@ -1,0 +1,184 @@
+### Integration (API - JSON)
+- 
+
+
+### Node JS
+- ES6
+	- let & const
+	- arrow function
+	- object and array destructure
+	- async await
+	- spread operator
+	- template literal
+	- es6 modules (import export)
+- Node JS Basic
+	- Installation
+	- REPL
+- NPM
+	- installing package
+	- directory structure
+	- using package with import / require()
+- Express JS
+	- Rest API Concept
+	- Routing
+	- dynamic route
+	- Middleware
+	- Handling File Upload
+- Database Connection
+	- ORM
+	- Defining Model
+	- Querying Data
+	- Associations (Relationship) 
+
+
+### PHP
+- Local Environment Setup
+	- installation (xampp / manual)
+	- configure php.ini
+	- php extension
+- Basic
+	- variable
+	- function
+	- if else condition
+	- for & foreach loop
+	- array
+- Web Server
+	- request response concept
+	- extracting data from `$_GET` & `$_POST` variable
+	- managing session
+- Database Connection
+	- using MySQLi
+	- using PDO
+	- initializing database connection
+	- managing DB and Table
+	- Inserting data to a table
+	- Prepared Statements
+	- selecting data from table
+	- handling relationship
+- File Handling
+	- including a php script
+	- configuring html files layout structure
+	- read and write a file
+	- handling file upload
+- OOP
+	- classes and objects
+	- constructor & destructor
+	- access modifiers
+	- inheritance
+	- abstract class
+	- interface
+	- traits
+	- static methods & properties
+	- namespaces
+- Composer
+	- setup composer
+	- installing package
+	- using package
+	- autoloading
+
+
+### MySQL - Query - Kamus Kompetensi
+- get data
+	- basic select syntax
+	- distinct
+	- order by
+- filtering data
+	- where
+	- like
+	- between
+	- and, or, not
+	- wildcards
+- relationship
+	- inner join
+	- left join
+	- right join
+- agregating data
+	- min & max
+	- count, avg, sum
+	- group by
+- DDL
+	- creating db
+	- dropping db
+	- creating table
+	- altering table
+	- dropping table
+	- get table list from db
+	- get table description
+- Managing User
+	- change root password
+	- create new user
+	- altering a user
+	- deleting a user
+	- assigning privileges to a user
+- Advanced Topics
+	- Indexing table
+	- Creating View
+	- SubQuery
+	- Stored Procedure
+
+### Laravel - Kamus Kompetensi
+- web development fundamentals
+	- html css
+	- database
+	- php basic + oop
+- environment setup
+	- xampp / manual php installation
+	- composer
+	- laravel installation
+- routing
+	- router methods
+	- dynamic route
+	- named route
+	- router group
+	- route resource
+- controller
+	- basic controller
+	- resource controller
+	- dependency injection
+- view
+	- blade basic
+	- loading view file from controller
+	- passing data to view
+	- creating view layout structure
+	- handling form in view
+	- view component
+- model
+	- fillable fields
+	- mass assignment
+	- relationship
+	- accessor & mutator
+	- eager loading
+	- subquery
+	- query builder
+	- soft delete
+- rest api
+	- using api route file
+	- return json in controller
+	- api resource collection
+- migration
+	- foreign key constraints
+	- seeder
+	- factory
+- middleware
+	- using built in middleware
+	- middleware in route
+	- middleware in controller
+	- custom middleware
+- crud
+	- prepopulate input in edit form
+	- csrf
+	- form validation
+	- repopulate input after validation
+	- file upload
+- authentication
+	- using manual authentication for web
+	- using make:auth
+	- using jwt/sanctum/passport for api
+	- authorization
+- deployment
+	- accessing server with ssh
+	- setup virtual host
+	- setup domain
+	- setup ssl
+	- ci / cd
+

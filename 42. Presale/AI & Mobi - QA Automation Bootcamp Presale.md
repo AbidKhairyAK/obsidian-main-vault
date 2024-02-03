@@ -1,0 +1,11 @@
+- 13 orang AT ke Mobi
+- tujuan live coding untuk menghindari tipe2 peserta yg menghapal
+- harus ada mini project pada setiap tools yg dipakai
+- kalau bisa kandidat sudah punya experience pada javascript
+- tech stack:
+	- Language: Typescript
+	- API Test: Jest + Supertest
+	- Web Test: Playwright
+	- Mobile Test: WebdriverIO + Appium
+	- Perfomance Test: K6
+

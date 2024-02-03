@@ -1,0 +1,116 @@
+### Main Topic
+- Installation
+	- CDN
+	- CRA
+	- Vite
+- JSX
+	- JSX Curly Braces
+		- Evaluate JS expression in JSX
+		- Evaluate JS expression in Element Attribute / Property 
+	- Conditional Rendering
+		- if statement
+		- ternary if
+		- logical operator
+	- List Rendering
+		- Array map method 
+		- key props
+- Component
+	- Component Type
+		- Class Component
+		- Function Component
+	- Props
+		- props destructure
+		- pass function/callback as props
+		- children props
+		- bind multiple props from object using destructure
+	- Component Separation
+		- Separate by reusability
+		- Separate by Layout / Section
+- Event
+	- handle event using anonymous function
+		- caveat: anonymous function got recreated during re-render
+	- handle event using function reference
+	- pass parameter using function call inside anonymous function
+		- caveat: can't use function call directly on event
+- State
+	- useState Hooks
+	- change state on event handler
+		- re-render every state update
+		- caveat: state updated on next render
+	- get previous state value from callback function on setState
+	- object on inital state value
+		- updating object in state strategy
+	- function on initial state value
+- Lifecycle
+	- functional component lifecycle
+	- useEffect hooks
+		- dependency array
+		- cleanup function before next effect
+	- Multiple useEffect in one Component
+- Routing
+	- Routing using React Router
+	- basic route configuration
+		- using JSX
+		- using Object
+	- Navigating Between Route
+		- using Link component
+		- using useNavigate hooks
+	- Dynamic Route
+		- configure dynamic route using ":" symbol
+		- reading url param using useParams
+	- Nested Route
+		- using Outlet component to render nested Route
+	- pass data to another route programmatically
+		- using URL Query / Search Params
+		- using URL State
+	- redirect using Navigate component
+- Data Fetching
+	- make dummy api using json-server
+	- make request to Rest API using http client library
+		- using axios
+		- using fetch
+	- store response data on state
+	- make request in useEffect to fetch initial page data
+	- show loading status while fetching data
+	- using proper react data fetching library
+		- React SWR
+		- React Query
+- Form Handling
+	- controlled input
+		- control one input on one state
+		- control many input on one state
+		- controlling other input types (select, radio, checkbox, etc...)
+	- wrap inputs using html form element
+		- handle from submit using onSubmit event
+		- using event.preventDefault() method to prevent reload
+		- validate input using built in html input validation attributes
+	- using react hook form to controll input
+	- validate inputs using YUP + react hook form
+	- send input data to Rest API using http client
+- State Management
+	- using React Context
+		- Make context using createContext function
+		- wrap page component using Context Provider
+		- consume context using  useContext hook
+	- using Redux
+		- basic store configuration
+		- create reducer function with switch case
+		- caveat: redux state is immutable
+		- consume state with useSelector hook
+		- update state with useDispatch hook
+		- create reducer with createSlice from redux toolkit
+
+
+### Advanced Topic
+- Custom Hook
+	- reusing / extracting logic with Custom Hook
+	- return function and reactive state from custom hook
+	- pass function and reactive state to custom hook
+- Authentication
+	- make dummy auth api using json-server-auth
+	- Consume login api and store response to localStorage
+	- set default authorization header from stored token
+	- Make private route for authenticated user
+	- Auto logout if token expired
+- Proper Directory Structure / Design Pattern
+- Input Debounce

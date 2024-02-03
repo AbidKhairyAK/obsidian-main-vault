@@ -1,0 +1,18 @@
+- nawadata - abimata
+	- implementor
+		- instalasi BI Fast di server nya client
+		- java based
+		- BI Fast
+		- bantu testing dari test case yang diberikan
+		- xml
+		- oracle db
+		- 1 tahun ngerjain ini
+	- wso2
+		- logging db
+		- middleware
+	- gravana
+		- middleware
+	- react js & spring boot
+		- 2 bulan terakhir
+		- admin lte
+		- kebanyakan di frontend

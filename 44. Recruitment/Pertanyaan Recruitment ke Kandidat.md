@@ -1,0 +1,7 @@
+- Pendidikan terakhir : 
+- Tahun lahir : 
+- Lama pengalaman kerja sebagai PHP developer(tahun) :
+- Tools/Technology/framework yang dikuasai :
+- Tools/Technology/framework yang pernah diimplementasikan dalam project disertai keterangan nama projectnya :
+- Kesiapan join : 
+- Siap onsite :  

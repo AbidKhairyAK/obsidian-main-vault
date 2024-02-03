@@ -1,0 +1,10 @@
+.cm-s-obsidian span.cm-inline-code {
+	color: unset;
+	background-color: unset;
+	font-size: unset;
+	vertical-align: unset;
+	font-family: unset;
+}
+.markdown-source-view.mod-cm6 .cm-indent::before {
+	border-right: unset;
+}

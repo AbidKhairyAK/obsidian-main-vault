@@ -1,0 +1,10 @@
+- harapannya ada presentasi final project
+- prioritas teknologi
+	- no 1 api
+	- no 2 android
+	- no 3 web
+	- no 4 performance
+- soal testnya nanti kemungkinan nggak ada sql
+- soal algoritmanya bebas bahasa pemrograman
+- untuk k6, intinya peserta bisa menjelaskan output result
+- ada kemungkinan test API pakai rest assured

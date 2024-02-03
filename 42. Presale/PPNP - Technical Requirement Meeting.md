@@ -1,0 +1,16 @@
+- Rewrite project lama menggunakan React JS
+- mulai efektif akhir juli untuk rewrite
+- butuhnya main power
+- butuh 3 orang, existing 2, sisa butuh 1
+- arsitektur tergantung dari kemampuan kandidat
+- javascript
+- pakai CI
+- pakai MySQL
+- bisa Hybrid, prefer onsite
+- nggak perlu bisa docker, dan unit testing
+- bisa git
+- prefer styling corporate
+- project 6-7 bulan
+- minimum pendidikan tidak ada
+- interview cuma tanya pengalaman
+- butuhnya jr to mid / mid

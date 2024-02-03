@@ -1,0 +1,7 @@
+- Tahap 1 - Hackerrank
+	- 10 soal pilihan ganda tentang konsep Rest API
+	- 1 soal praktek membuat CRUD dengan Array sebagai DB nya
+- Tahap 2 - Interview Teknis
+	- ditanyain soal bedanya Asynchronous dan Synchronous
+	- ditanyain soal library yang sering dipakai di NodeJS
+	- diberikan sebuah contoh masalah dan diminta untuk mencari solusinya

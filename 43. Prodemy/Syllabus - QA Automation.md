@@ -1,0 +1,203 @@
+### Outline
+- SQA Introduction
+	- Test Case
+	- Testing Types
+- HTML & CSS
+	- CSS Selector
+	- XPath
+- Javascript ES6
+	- DOM Manipulation
+	- Asynchronous
+	- Class
+- Rest API
+	- Postman
+	- Axios
+- Unit Testing
+	- Mocha
+	- Chai
+- Web Testing
+	- Selenium
+- Mobile Testing
+	- Appium
+- Load Testing
+	- K6
+
+
+### Software Testing Introduction
+- what is software testing
+- test case
+	- apa itu test case
+	- test case element
+		- story / suite
+		- test id
+		- test scenario / test case
+		- test step
+		- test data
+		- pre-condition
+		- test type
+		- expected result
+		- actual result
+		- status
+	- test case techniques
+		- bva
+		- ep
+		- decision table
+	- bug / defect lifecycle
+	- severity & priority
+	- bug reporting
+	- best practice
+- STLC
+	- apa itu stlc
+	- fase stlc
+- SDLC
+	- apa itu sdlc
+	- jenis2 sdlc
+		- Waterfall
+		- V-Model
+		- Agile
+- Methodologies
+	- Black Box
+	- White Box
+	- Grey Box
+- Functional Testing Types
+	- unit testing
+	- integration testing
+	- e2e testing
+	- system testing
+	- user acceptance testing
+	- smoke testing
+	- regression testing
+	- sanity testing
+- Non Functional Testing
+	- Perfomance / Load / Stress Testing
+	- Compatibility Testing
+	- Installation Testing
+	- I18N Testing
+	- dll
+- 7 prinsip dasar pada software testing
+
+
+### Node JS Basic
+- Introduction
+	- Node JS digunakan untuk menjalankan Javascript di server
+	- Node JS dapat diinstall pada Windows. Linux, Mac, dll
+	- Node JS gratis
+	- Node JS open source
+	- Node JS biasanya digunakan untuk Backend
+- instalasi
+	- buka website node js pada url https://nodejs.org/
+	- download versi lts
+	- jalankan aplikasi instalasi yang sudah didownload dan ikuti petunjuk yang diberikan
+- basic usage
+	- buat file javascript
+	- jalankan filenya dengan:
+	  `node namaFile.js`
+- NPM
+	- NPM adalah Package Manager bawaan Node JS
+	- NPM digunakan untuk menginstall library/plugin/package/module pada projek atau pada sistem
+	- NPM digunakan pada terminal / cmd
+	- cara install library:
+	  `npm install library_name`
+	- library yang terinstall akan disimpan pada folder node_modules
+	- cara pakai library:
+	  `const someLib = require('some-library')`
+- Node JS Module
+	- node js memiliki beberapa module/library bawaan, seperti fs (FileSystem)
+	- cara menggunakan module adalah dengan sintaks require()
+	- kita juga bisa membuat module sendiri dengan sintaks module.exports atau exports.namaModule
+	- hanya module yang telah diexport yang dapat direquire
+- no window
+- prompt
+
+
+### Mocha Chai
+- Chai
+	- introduction
+		- assertion lib
+	- installation
+	- 3 mode
+	- basic usage
+	- bdd
+	- common method
+- Mocha
+	- intro
+		- testing framework
+	- describe and it
+		- nested describe
+	- hook
+		- before, after, each
+- Supertest
+	- intro
+		- api agent with assertion
+	- assert again json
+- Report portal
+	- intro
+		- testing report framework
+		- installed on server
+		- demo
+	- config
+		- try demo
+		- open profile
+		- install on project
+		- setup config
+
+
+### K6
+- What is K6
+- Installation
+- Preparation: es6 modules
+- Basic Usage
+- result output
+	- data_sent
+	- data_received
+	- http_req_duration
+	- http_req_failed
+	- iterations
+	- total test duration
+	- running time
+	- vus
+	- avg, min, med, max, p()
+- k6 http library
+- Common Option
+	- duration
+	- iterations
+	- vus
+- assertion
+	- check
+- threshold
+	- exit code
+- ramping vus
+	- average load
+	- breakpoint test
+- custom output
+	- to json
+	- querying json
+	- to cloud
+- custom tags
+- group
+- integration with chai
+- custom metric
+- test lifecycle
+	- setup
+	- teardown
+- scenario
+	- concept
+	- executor
+		- shared iterations
+		- per vu iterations
+		- constant vus
+		- ramping vus
+	- exec custom function
+- load testing types
+- reuse test
+	- moduarize logic
+	- moduarize workload
+- env
+- shared array
+- generate test from recordings
+	- browser to k6
+	- har to k6
+	- postman to k6
+
+https://github.com/maximilianoalves/k6-arch-example
+https://tsh.io/blog/how-to-do-performance-testing-using-k6/

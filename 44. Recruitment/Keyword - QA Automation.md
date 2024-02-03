@@ -1,0 +1,21 @@
+### Keyword Utama
+- QA Automation
+- SQA Automation
+- Quality Assurance Automation
+- Automation Tester
+- Katalon
+- WebdriverIO
+- Webdriver IO
+- Web Driver IO
+- Cucumber
+- Cypress
+- Selenium
+- Appium
+- BDD
+- rest assured
+- JMeter
+- k6
+- JUnit
+- Jest
+- PHPUnit
+- Pest

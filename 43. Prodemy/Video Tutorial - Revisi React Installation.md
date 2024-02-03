@@ -1,0 +1,5 @@
+- suara kekecilan
+- buat video oveview untuk ngenalin semua jenis instalasi
+- hapus yg cdn aja
+- tulisan di cmd kekecilan
+- vi

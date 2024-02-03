@@ -1,0 +1,25 @@
+### Kebutuhan
+- software dev manager
+	- 1 orang
+	- skill requirement
+		- pernah develop aplikasi, bebas pakai teknologi/bahasa apa aja
+		- paham database dan web design
+		- punya background SA / BA
+	- Job desc
+		- head division
+		- delegation job
+		- pioneering project
+		- customize main product
+		- integrasi dengan sistem existing
+		- manage tim dengan baik
+	- Personality
+		- open minded dan masih mau berkembang
+		- alasan keluar dari perusahaan sebelumnya kalau bisa jangan karena gaji, tapi karena stagnan ilmu dan pengalaman
+	- Other
+		- Latar pendidikan S1
+		- Tidak ada concern dengan tahun pengalaman
+- hardware engineer middle
+	- 1 orang
+	- Job desc
+		- riset dan reverse engineering produk yang sudah ada
+		- planning dan develop produk baru

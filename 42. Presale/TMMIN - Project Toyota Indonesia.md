@@ -1,0 +1,13 @@
+- sa rangkap qa
+- 2 tim
+- propose awal setim 7 orang
+	- sa sr 1
+	- sa jr rangkap qa 1
+	- programmer web & mobile 3 orang
+	- ui ux 1
+	- da 1
+- perhatikan harmoni setim yg akan direkrut
+- rn
+- fllutter
+- node
+- .net
