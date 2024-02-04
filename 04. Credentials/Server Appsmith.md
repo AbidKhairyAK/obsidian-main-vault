@@ -4,7 +4,7 @@ Server:
 - host: nat3.reconv.pl
 - port: 5822
 - user: root
-- pass: mqwwM3r1HsvloiuZY5CtDZN9piucKdln
+- pass: k6QWJh66J78PU9KxfoAxzoBbp49ycwll
 - live url: http://nat3.reconv.pl:5831
 
 Account:
