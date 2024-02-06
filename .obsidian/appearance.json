@@ -2,7 +2,7 @@
   "accentColor": "",
   "theme": "moonstone",
   "cssTheme": "Minimal",
-  "baseFontSize": 16,
+  "baseFontSize": 19,
   "enabledCssSnippets": [
     "disable_codeblock"
   ]

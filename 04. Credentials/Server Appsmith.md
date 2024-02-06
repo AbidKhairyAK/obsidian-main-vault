@@ -2,7 +2,8 @@ Provider: https://dash.reconv.pl/en/auth
 
 Server:
 - host: nat3.reconv.pl
-- port: 5822
+- ip: 194.233.79.195
+- ssh port: 5822
 - user: root
 - pass: k6QWJh66J78PU9KxfoAxzoBbp49ycwll
 - live url: http://nat3.reconv.pl:5831

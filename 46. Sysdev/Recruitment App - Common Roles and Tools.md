@@ -1,0 +1,34 @@
+### Roles
+- React JS Developer - Frontend
+- Vue JS Developer - Frontend
+- Angular JS Developer - Frontend
+- Node JS Developer - Backend
+- Java Developer - Backend / Fullstack
+- .NET Developer - Desktop
+- .NET Developer - Web
+- PHP Developer - Backend / Fullstack
+- Python Developer - Backend
+- Golang Developer - Backend
+- System Analyst
+- Business Analyst
+- Data Analyst
+- Data Engineer
+- Data Scientist
+- Software Quality Assurance (SQA) - Manual
+- Software Quality Assurance (SQA) - Automation
+- Technical Writer
+- React Native Developer- Mobile
+- Flutter Developer - Mobile
+- Android Developer - Kotlin / Java - Mobile
+- iOS Developer - Swift - Mobile
+
+### Tools
+- React JS
+- Jira
+- Next JS
+- 
+- VS Code
+- Eclipse IDE
+- IntelliJ IDEA
+- Android Studio
+- XCode
