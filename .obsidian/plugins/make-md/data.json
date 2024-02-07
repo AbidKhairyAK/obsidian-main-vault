@@ -38,8 +38,7 @@
     "/",
     null,
     "Main",
-    null,
-    "//Excalidraw"
+    null
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
