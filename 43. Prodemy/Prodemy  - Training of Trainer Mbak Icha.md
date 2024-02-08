@@ -20,7 +20,7 @@
 - 16.00
 	- review materi yang telah dipelajari
 	- berikan kesempatan untuk bertanya
-
+]
 ### Note
 - h-1 saya bakal ngejelasin mengenai materi dan tugas yg akan diajarkan besok
 - catat kepribadian dan kebiasaan masing2 peserta, baik itu teknis maupun diluar teknis, saya sarankan pakai buku
