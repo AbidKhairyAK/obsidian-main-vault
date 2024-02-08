@@ -18,7 +18,7 @@
 	- jelasin mengenai objective / tugas yang akan dikerjakan
 	- jelasin mengenai materi yang akan dipelajari sebelum mengerjakan tugas tersebut
 - 16.00
-	- review materi yang telah dipelajar
+	- review materi yang telah dipelajari
 	- berikan kesempatan untuk bertanya
 
 ### Note
