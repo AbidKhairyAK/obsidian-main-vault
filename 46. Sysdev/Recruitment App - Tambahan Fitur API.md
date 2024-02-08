@@ -1,0 +1,1 @@
+- proper crud api for jobrole and swtools
