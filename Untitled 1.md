@@ -1,0 +1,99 @@
+2024-02-09 14.19 - Untitled 1 - React JS
+
+#### Technical (+) 
+
+- **QA => 1 tahun 7 bulan => level**  
+- 
+
+#### Technical (-)  
+
+- 
+
+#### Non Technical  
+
+- 
+
+---
+
+#### Pertanyaan Pembuka
+
+- mengenai pengalaman kerja 
+	- magang 
+		- aplikasi tiket di bandung
+	- bootcamp
+		- 3 bulan
+	- pt ecommerce republik
+		- mnual test excel
+		- tc
+		- test payment gateway pakai postman
+			- indomaret
+			- alfamara
+		- api test
+		- test database
+			- mysql
+		- test migration data compare date
+	- pt selera gerasi bangsa - 1 tahun 4 bulan
+		- 1 qa 1 fe 1 be
+		- membuat story / task
+		- komunikasi langsung dengan user
+		- sdlc
+		- sprint planning
+		- test plan
+		- execute test case
+		- teiga
+		- postman
+		- swagger
+		- postman / jmeter
+		- training user
+		- demo produk
+		- 10 projek sudah live
+		- kena layoff gede
+		- projek checklist karyawan 
+		- merangkap jadi PM
+	- lagi belajar katalon dengan skrip java
+- apply sebagai
+
+
+#### List Pertanyaan Teknis
+
+- Automation / Manual?  
+- Jika automation pakai apa?
+	- = selenium
+	- = katalon
+	- = cucumber
+	- = cypress
+	- disandingkan dengan teknologi/bahasa apa?
+- buat test case / cuma eksekusi?
+	- apakah membaca BRD / PRD?
+		- baca
+	- apakah membuat test plan?
+		- id
+		- tc name
+		- test scenario normal
+	- test yg dibuat apa aja?
+		- = functional
+		- = stress test
+		- = UAT
+			- pernah
+			- paham
+		- = regression
+			- contoh kasus
+			- paham2 dikit
+		- = smoke test = manual
+			- paham
+		- e2e
+			- paham
+- test DB dan API?
+	- query & http method?
+	- query sampai join
+	- paham beda post dan get
+- white, black, grey box?
+	- white bisa baca code
+	- paham
+- postitif & negatif difference?
+	- paham
+- berikan contoh kasus form login & jumlah test case nya
+	- ada input username & password
+	- input min 5 char & max 20 char
+	- symbol, letter, angka wajib ada untuk password
+- Laravel dusk/test php/test Laravel
