@@ -1,0 +1,66 @@
+2024-02-09 13.37 - Untitled - React JS
+
+#### Technical (+) 
+
+- **React JS => tahun => level**  
+- 
+
+#### Technical (-)  
+
+- 
+
+#### Non Technical  
+
+- nyari di gugel
+
+---
+
+#### Pertanyaan Pembuka
+
+- mengenai pengalaman kerja  
+	- intern 3 bulan
+		- ngerjain web yg udah jalan
+		- excel dinamis untuk export nilai siswa
+		- command2 baru untuk bot telegram
+		- api untuk mobile dan web
+		- .NET C#
+		- JS
+		- sql server
+	- pt urus solusi - 11 bulan
+		- be
+		- project udah jalan
+		- sistem cek in hotel
+		- template buat cetak invoice
+		- sistem backend rental apartemen
+		- api sistem urus
+		- angular js
+		- node js
+		- sql server
+		- expres js
+		- typescript dikit
+- apply sebagai
+
+
+#### List Pertanyaan Teknis
+
+- typescript (apa & kenapa)
+	- salah paham dikit
+	- kurang paham
+- express / nest (apa)
+- database (NoSQL vs SQL)
+- orm (apa)
+	- belum tau orm
+	- pakai query sql langsung
+- architecture (pakai apa)
+- asynchronous (apa, vs callback, event loop)
+	- kurang paham
+- docker (apa & kenapa) & ci/cd
+- unit testing
+- deployment (pm2, nginx/apache)
+	- belum pernah
+- microservice
+	- tau dikit, masih ragu
+- message broker
+- api gateway
+- socket
+	- belum
