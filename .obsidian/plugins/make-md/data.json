@@ -38,7 +38,9 @@
     "/",
     null,
     "Main",
-    null
+    null,
+    "//Spaces",
+    "//43. Prodemy"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
