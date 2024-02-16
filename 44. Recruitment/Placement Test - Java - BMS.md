@@ -11,4 +11,17 @@
 
 
 ### Dari Yoga
-- 
+- Interviewnya soal project yg pernah dikerjain sama perbankan, kayak flow pembiayaan dibanking itu gimana
+- tentang project waktu bootcamp
+
+
+### Dari Taopik
+- ⁠Dsuruh ngejelesain project seblumnya ngapain aja
+- ⁠Teknologi yang digunakannya apa
+- ⁠Peran kita di project tersbut gimana
+- Ditanya apakah pernah buat project java dari awal(Menambahkan library/dependency baru) 
+- Optimasi API
+- Sama ditanga juga yang dicantumin di cv
+
+### Tambahan dari Abid
+- pelajari istilah Dependency Injection, Inversion of Control, Bean, maven
