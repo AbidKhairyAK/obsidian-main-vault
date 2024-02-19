@@ -11,4 +11,5 @@
 # make.md plugin
 .makemd/
 .obsidian/plugins/make-md/Spaces.mdb
+.obsidian/plugins/make-md/data.json
 .space/
