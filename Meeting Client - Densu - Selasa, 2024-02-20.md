@@ -1,0 +1,50 @@
+### Participant
+- Pak Agustinus (client)
+- Pak Anton
+- Kiky
+- Bu Icha
+- Abid
+
+### Meeting Note
+- pengen kolaborasi dan minta support
+- perlu tau prosigma bisa support apa
+- sekarang Densu kebanyakan handle produk
+- hambatan:
+	- kualitas
+	- management project: belum on time on budget
+	- masalah terjadi karena perbedaan pemahaman, bukan karena kemampuan tidak mencukupi. komunikasi kurang baik
+	- masalahnya dibicarakan saat diakhir projek, sehingga tidak ada waktu untuk mencari solusi
+- mulai bertanya ke bisnis analis
+	- kita pengalaman punya BA di otomotif
+		- lebih ke proses manufaktur
+	- punya System Analyst
+		- Banking
+		- Finance
+		- Mobile Banking di BMS
+- user concern tentang standar penilaian
+	- menyesuaikan dengan user
+- user concern tentang sertifikasi
+	- belum mewajibkan sertifikat
+	- lebih ke test interview dan test teknis
+- user concern tentang security
+	- kita partner dengan I3
+	- middleware dan cybersecurity
+- mungkin ada kebutuhan untuk RPA UI Path
+	- user menyadari bahwa UI Path teknologi yang spesifik
+	- user tanya tentang talent yang bersertifikat
+- user concern tentang bootcamp
+- user concern tentang experienced engineer
+- user concern tentang waterfall, pembuatan use case dan UML
+	- banyank yg udah iv 5 tahun tapi tidak qualify
+	- malah yg freshgrad dari brawijaya bagus secara teori
+	- solusi: jadikan technical writer 1 tahun 2 tahun setelah itu lalu ke BA / SA
+- fujitsu
+	- lebih banyak ke lembar control / QA, bukan perencanaan
+	- masih belum memiliki standar, masih menggunakan interpretasi masing2
+- lowcode
+	- outsystem
+	- siemens mendix
+	- sama seperti RPA, tapi cuma sebagai tehcnical support
+- densu
+	- main business: iklan dan promotor
+	- di blok M lantai 17
