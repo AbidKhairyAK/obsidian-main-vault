@@ -22,6 +22,13 @@ adityawisnu104@gmail.com
 PgAdmin Credentials:
 - Host: 194.233.79.195
 - Port: 5832
+- DB: postgres
+- User: postgres
+- Pass: postgres
+
+PgAdmin Credentials:
+- Host: 194.233.79.195
+- Port: 5832
 - DB: timesheet_app
 - User: timesheet_app
 - Pass: timesheet_app

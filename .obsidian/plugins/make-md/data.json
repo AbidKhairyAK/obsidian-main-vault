@@ -38,7 +38,8 @@
     "/",
     null,
     "Main",
-    null
+    null,
+    "//04. Credentials"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
