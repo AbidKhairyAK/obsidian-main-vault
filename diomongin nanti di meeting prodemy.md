@@ -1,0 +1,3 @@
+- organisasi folder di gdrive
+- dokumen yang perlu dimasukin ke notion
+- aturan penamaan di gdrive
