@@ -1,0 +1,3 @@
+- voice channel untuk orang yang tidak punya discord
+- temporary room
+- bedanya ban sama kick

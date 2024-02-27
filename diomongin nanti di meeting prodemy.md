@@ -1,3 +1,6 @@
 - organisasi folder di gdrive
 - dokumen yang perlu dimasukin ke notion
+	- absensi
+	- nilai yg 4
 - aturan penamaan di gdrive
+- konten di CV mengenai bootcamp

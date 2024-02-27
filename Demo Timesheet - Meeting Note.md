@@ -1,0 +1,16 @@
+- kasus ketika placement diperpanjang
+- perlu warning sebulan sebelum placement berakhir
+- disable sebulan sebelumnya pada return date
+- hari libur tapi lembur
+  => default hari libur, tapi kalau ada timesheet timpa dengan activitynya
+- hari libur berbeda sesuai client
+- jam harus bisa presisi, cukup sampai menit aja
+- (low priority) overtime yang melebihi jam 00 hari berikutnya
+- multi tanda tangan / multi PIC]
+- print to pdf on resource, both excel & pdf on admin
+- jalan berbarengan dengan manual untuk diawal
+- konsultasi dengan bu apri mengenai prioritas task
+- batas waktu isi timesheet max 14 hari sebelumnya, dan max hari ini
+- optimasi query
+- cek mobile
+- optimis mvp tanggal 11 maret 2024
