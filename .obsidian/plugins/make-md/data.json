@@ -38,7 +38,11 @@
     "/",
     null,
     "Main",
-    null
+    null,
+    "//46. Sysdev",
+    "//46. Sysdev",
+    "//47. ERO",
+    "//04. Credentials"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
