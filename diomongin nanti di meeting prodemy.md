@@ -1,6 +1,13 @@
-- organisasi folder di gdrive
 - dokumen yang perlu dimasukin ke notion
 	- absensi
-	- nilai yg 4
+	- -/ nilai daily task
+	- -/ nilai review test
+	- -/ nilai filtering test
+	- -/ nilai final project
 - aturan penamaan di gdrive
+- organisasi folder di gdrive
 - konten di CV mengenai bootcamp
+	- project yang dikerjain anak bootcamp
+
+- boleh diubah nama item "# Soal 1 / 2 / 3"
+- tanya pak awi tentang (running well / debugging / etc..) untuk penilaian final project
