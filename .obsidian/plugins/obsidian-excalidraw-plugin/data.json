@@ -326,7 +326,7 @@
             "containerId": null,
             "originalText": "Default",
             "lineHeight": 1.27791736616745,
-            "baseline": 15
+            "baseline": 16
           },
           {
             "type": "line",
@@ -947,7 +947,7 @@
             "containerId": null,
             "originalText": "Message",
             "lineHeight": 1.2925685031366672,
-            "baseline": 8
+            "baseline": 9
           },
           {
             "type": "rectangle",
@@ -1085,7 +1085,7 @@
             "containerId": null,
             "originalText": "Error message",
             "lineHeight": 1.2623213426447533,
-            "baseline": 8
+            "baseline": 9
           },
           {
             "type": "rectangle",
@@ -1223,7 +1223,7 @@
             "containerId": null,
             "originalText": "Success message",
             "lineHeight": 1.2623213426447533,
-            "baseline": 8
+            "baseline": 9
           },
           {
             "type": "ellipse",
@@ -2536,7 +2536,7 @@
             "containerId": null,
             "originalText": "Alerts",
             "lineHeight": 1.2499999999999998,
-            "baseline": 45
+            "baseline": 46
           }
         ],
         "id": "ZoS7tm9LHKiFCNqzhsFtY",
@@ -2580,7 +2580,7 @@
             "containerId": null,
             "originalText": "Checkboxes",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -2805,7 +2805,7 @@
             "containerId": null,
             "originalText": "Radio buttons",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "text",
@@ -3030,7 +3030,7 @@
             "containerId": null,
             "originalText": "Toggle switches",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "text",
@@ -3339,7 +3339,7 @@
             "containerId": null,
             "originalText": "Sliders",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -4036,7 +4036,7 @@
             "containerId": null,
             "originalText": "Tags",
             "lineHeight": 1.2541946742573808,
-            "baseline": 39
+            "baseline": 40
           }
         ],
         "id": "xBJaCFtY9vzEvI9RYNqYI",
@@ -4842,7 +4842,7 @@
             "containerId": null,
             "originalText": "Breadcrumbs",
             "lineHeight": 1.2553439759932137,
-            "baseline": 28
+            "baseline": 29
           }
         ],
         "id": "1RqIJ4vZo8Twgh0BDpScw",
@@ -11028,7 +11028,7 @@
             "containerId": null,
             "originalText": "Sidebar",
             "lineHeight": 1.25702278544297,
-            "baseline": 58
+            "baseline": 59
           }
         ],
         "id": "3GwU3abUL3P_nIJgzVzXT",
