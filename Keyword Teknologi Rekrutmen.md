@@ -1,0 +1,12 @@
+- Javascript
+	- FE
+		- React JS, Next JS
+		- Vue JS, Nuxt JS
+		- Angular JS
+	- BE
+		- Node JS, Express JS, Nest JS, Adonis JS
+	- Mobile
+		- React Native
+- C#, VB
+	- .NET, .NET Core
+	- 
