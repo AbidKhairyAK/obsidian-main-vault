@@ -1,3 +1,7 @@
+### 2024-03-14
+- 
+
+### 2024-02-29
 - dokumen yang perlu dimasukin ke notion
 	- absensi
 	- -/ nilai daily task

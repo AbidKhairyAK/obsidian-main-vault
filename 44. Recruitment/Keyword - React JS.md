@@ -1,0 +1,24 @@
+### Keyword Utama
+- React
+- React JS
+- React Router
+- Next JS
+- Remix
+- Styled Component
+- Material UI
+- Ant Design
+- Chakra UI
+- Shadcn
+- CRA
+- Redux
+- Zustand
+- Recoil
+- React Hook Form
+- YUP
+- ZOD
+- Formik
+- Vitest
+- Tanstack
+- RTK Query
+- React Testing Library
+- SWR

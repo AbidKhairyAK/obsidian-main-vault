@@ -1,0 +1,13 @@
+- QA
+- QA Manual
+- Quality Assurance
+- Test Case
+- Test Scenario
+- UAT
+- SIT
+- E2E
+- Jira Xray
+- Confluence
+- TestRail
+- TestLink
+- Postman

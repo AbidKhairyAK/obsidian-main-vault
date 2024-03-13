@@ -1,10 +1,16 @@
 ### Keyword Utama
 - Vue
 - Vue JS
+- Vue Router
+- Vuex
 - Nuxt JS
 - Quasar
 - Vuetify
-
-### Keyword Tambahan - Mungkin kurang tepat
+- Element Plus
 - Composition API
 - Vite
+- Volar
+- Pinia
+- FormKit
+- Vitest
+- VeeValidate

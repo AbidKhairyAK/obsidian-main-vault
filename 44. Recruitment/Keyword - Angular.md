@@ -1,0 +1,13 @@
+- Angular
+- RxJS
+- NgRx
+- PrimeNG
+- ag-Grid
+- ng-bootstrap
+- Nebular
+- Scully
+- Formly
+- Rxweb
+- Kendo UI
+- Augury
+- NG Lightning
