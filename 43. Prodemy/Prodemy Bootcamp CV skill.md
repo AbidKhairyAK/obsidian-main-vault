@@ -30,7 +30,9 @@
 - GIT for Version Control  
 
 ### React
-- Bootstrap & Tailwind CSS  
-- Javascript ES6  
-- React JS for creating Interactive Web App  
-- Redux with Toolkit
+- Tailwind CSS for styling
+- React JS for creating Interactive Web App
+- Consuming REST API with Axios 
+- Form handling with React Hook Form
+- Redux Toolkit for state management
+
