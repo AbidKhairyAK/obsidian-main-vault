@@ -1,0 +1,44 @@
+### Participants
+- agus budi
+- agus pras
+- andre octavianus sitepu
+- anggraini kusuma wardani
+- anton
+- elvani marcelin pontoan
+- fadhlullah niazi yuda
+- nur hofifah sagala
+- sigit wisnu pramana
+- yosef jeffri silvanus nahak
+
+### meeting note
+- progress mengenai pak agus dan pak sigit di adira
+- ada beberapa masukan dari user:
+	- komunikasi dan response time masih kurang, 
+	- dan terkait teknikal juga
+- concern dari pak agus dan pak sigit
+	- dari awal masuk, nggak ada arahan mengenai tugas yang diberikan
+	- jadinya inisiatif untuk monitoring db dan cpu usage
+	- minggu2 awal nggak ada arahan tugas
+	- sempet ada problem, tapi udah dikasih hasil analisanya
+	- ada beberapa db yang nggak bisa koneksi
+	- ngasih tugas untuk troubleshooting db, yang biasanya tugas tersebut perlu bantuan DBA
+	- diluar jam kerja biasanya balas lewat wa dulu, kemudian saat jam kerja kemudian fixing
+	- akses ke db terbatas permissionnya
+	- nggak ada hak akses ke sql servernya
+	- kurang tau tugas dan posisi dari masing2 personel saat meeting, jadi nggak tau mau tanya ke siapa
+- masukan dari mas fadhlul
+	- jangan takut reach out ke tim internal I3
+	- yang penting komunikasi bagus
+- dari mas patria
+	- sebelum pak ss dateng
+	- disuruh sama pak johnson untuk buat user untuk semua db
+	- privilege udah dikasih, tapi nggak bisa ngewrite
+	- kesalahan query bukan tugas dba, tapi dari tim development
+	- dba hanya bisa fu ke temen2 dba2 nya yg lain
+	- dba nggak bisa mainin data
+	- bagusnya masalahnya diangkat saat meeting issue, karena saat itu semua pihak terkait hadir
+	- kalau bisa lebih proactive
+	- sebaiknya buat excel untuk buat nyatat nama project dan orang yang terlibat di dalamnya beserta posisinya
+- dari bu elvani dan angraini
+	- kalau bisa orangnya proactive
+	- perbaiki komunikasi, sering follow up, jangan sampai di kita
