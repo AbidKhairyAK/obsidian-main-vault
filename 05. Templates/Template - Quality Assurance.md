@@ -30,6 +30,7 @@
 	- = cucumber
 	- = cypress
 	- disandingkan dengan teknologi/bahasa apa?
+	- apa itu pom?
 - buat test case / cuma eksekusi?
 	- apakah membaca BRD / PRD?
 	- apakah membuat test plan?

@@ -1,0 +1,3 @@
+- di briefing dulu tentang kondisi tmmin bareng pak iwan dan yudha
+- minta ekspektasi pak iwan terkait kondisi kelulusan
+- trialnya 2 minggu, kalau bisa dikawal tiap hari 
