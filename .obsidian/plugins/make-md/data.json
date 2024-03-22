@@ -40,7 +40,8 @@
     "Main",
     null,
     "//46. Sysdev",
-    "//46. Sysdev"
+    "//46. Sysdev",
+    "//04. Credentials"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

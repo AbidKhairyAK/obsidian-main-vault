@@ -1,0 +1,17 @@
+- salam
+- doa pembuka
+- yth ustad
+- terimakasih, atas kehadirannya
+- yth jajaran direksi, nama lengkap
+- ykb rekan2 ho & rekan2 project di ig
+- perkenalkan diri , yg akan membawakan acara hair ini, buka bersama dengan tema "tema"
+- bacain rundown
+- pembacaan quran
+- bilang makasih, semoga yg baca denger dapat berkah
+- tektok sebelum dan sesudah materi
+- saat sesi tanya jawab, tanya pak ustadnya mau dikumpulin atau jawab langsung
+- doa by ustadz
+- selipin info kegiatan ramadhan
+- sebutin judul
+- penutup
+- terimakasih ke pak ustadz, semoga bisa diamalkan, mohon maaf lahir batin, samlekom
