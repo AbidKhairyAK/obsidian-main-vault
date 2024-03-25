@@ -1,0 +1,21 @@
+- ada 3 soal
+	- pembuatan ERD
+	- penulisan query (challenge)
+	- pembuatan program reporting (python / java)
+- pengumpulan/mulai di senin jam 9
+- prepare
+	- tools untuk buat ERD
+		- https://dbdiagram.io
+		- figma
+	- coba buat ERD berdasarkan cerita
+		- ini contoh aja
+		- pak tono memiliki bisnis ayam geprek
+		- warungnya sudah ada 3 cabang
+		- masing2 warung perlu mencatat penjualannya
+		- dan margin keuntungan dari masing2 warung berbeda dari satu sama lain
+	- coba buat ERD berdasarkan data yang sudah ada di excel
+	- statement/query sql yg penting
+		- JOIN
+		- SUM / AVG
+		- GROUP BY
+	- buat program (web/terminal) untuk menampilkan rangkuman/summary dari data yg ada di db
