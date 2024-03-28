@@ -35,12 +35,14 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     null,
     "Main",
     null,
     "//46. Sysdev",
-    "//46. Sysdev"
+    "//46. Sysdev",
+    "/",
+    "44. Recruitment",
+    "//44. Recruitment"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
