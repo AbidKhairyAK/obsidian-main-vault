@@ -1,0 +1,81 @@
+- ======
+- 16.30 - pembukaan
+- salam
+- doa pembuka
+- yang kami hormati, ust beny amri lc, terimakasih atas kehadirannya
+- yang kami hormati, jajaran direksi psm,
+	- Arief Kusuma
+	- Rahmat Saptadirdja
+	- Wisnu Wibowo
+	- Oskar Karim
+	- Awiyanto Ajisasongko
+	- M. Desdrianton Islamy
+- yang kami banggakan
+	- rekan2 head office
+	- rekan2 project yang sedang menonton siaran langsung di instagram
+- perkenalkan, saya abid, 
+	- pada kesempatan ini akan membawakan acara buka bersama, 
+	- dengan tema "Akhlak Dalam Pekerjaan Dan Profesi"
+- sebelum kita mulai, izinkan saya membacakan susunan acara sore ini,
+	- yang mana kita mulai dari pembukaan,
+	- pembacaan ayat suci Al Quran
+	- Sambutan Manajemen
+	- materi kajian, tanya jawab, doa
+	- info kegiatan ramadhan psm berkah
+	- buka puasa bersama dan sholat maghrib
+	- makan malam dan silaturahmi
+- ======
+- 16.35 - pembacaan ayat suci al quran
+- mari kita buka acara sore ini dengan {title}
+- dibawakan oleh saudara rizky dan saudari kiki / najwa
+- -- baca quran --
+- terima kasih atas bacaan qurannya, semoga yg baca dan denger dapat berkah
+- ======
+- 16.45 - sambutan manajemen
+- acara selanjutnya, {title}
+- disampaikan oleh pak wisnu wibowo
+- -- sambutan --
+- terimakasih atas sambutannya pak wisnu
+- bacain rangkuman kalo ada
+- ======
+- 17.00 - materi kajian, tanya jawab, doa
+- acara selanjutnya,
+	- materi kajian ramadhan, dibawakan oleh ust benny amri lc,
+	- dilanjutkan dengan sesi tanya jawab
+	- diakhiri dengan doa bersama, dipimpin oleh ust benny amri 
+- -- kajian --
+- rangkum dikit
+- terimakasih atas ilmunya ust, semoga apa yg disampaikan bisa bermanfaat, /// dan bisa kita terapkan pada kehidupan sehari2 di kantor
+- ======
+- 17.30 - tanya jawab
+- selanjutnya akan ada sesi tanya jawab
+- akan kita persilahkan kepada 3 orang untuk memberikan pertanyaan
+- > tanya ustadz "pertanyaannya mau dikumpulkan dulu atau langsung dijawab"
+- yang ingin bertanya kami persilahkan
+- -- tanya jawab --
+- terimakasih atas jawabannya ustadz, dan terimakasih kepada bapak/rekan2 yang sudah bertanya
+- semoga apa yang disampaikan ust bisa menjadi jawaban, dan ilmu tambahan bagi kita semua
+- ======
+- 17.45 - doa
+- acara selanjutnya, adalah doa bersama yang akan dipimpin oleh ustadz
+- silahkan ustadz
+- -- doa --
+- ======
+- 17.55 - info
+- sebelum kita tutup ada sedikit info mengenai kegiatan ramadhan psm berkah
+- jadi psm akan mengadakan program pembuatan sarana air bersih
+- program ini akan dilaksanakan di mushollah Rowtul Jannah, kp Baru Ciakar, Desa Cileles, Kec. Tigaraksa, Tangerang, Banten
+- untuk pengumpulan dananya bisa dikirim ke rekening pak awi
+	- BSI 7013907937
+	- An Awiyanto Ajisasongko
+- max dikumpulkan di hari jumat, 29 mar 2024
+- dan untuk waktu pelaksanaannya seminggu setelah dana terkumpul
+- itu saja untuk infonya
+- ======
+- 18.00 - penutup
+- sekian untuk kajian ramadhan sore hari ini dengan tema "Akhlak Dalam Pekerjaan Dan Profesi"
+- terimakasih kepada ustadz dan kepada rekan2 yang sudah hadir
+- kami mohon maaf atas segala kekurangan yang terjadi 
+- (jika belum) mari kita tutup acara sore ini dengan doa kafarotul majelis
+- saya pamit undur diri
+- salam

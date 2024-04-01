@@ -1,0 +1,11 @@
+### dari kandidat sebelumnya
+- design pattern: custom view, dll
+- arsitektur pattern: MVx, dll
+- networking: retrofit, json
+- db: room vs realm
+- async: rx vs coroutine, livedata vs flow, 
+- di: koin vs dagger
+- modular: android vs java/kotlin vs dynamic
+- performance: static analyze, profiler
+- security: ssl, encrypt, obfuscation
+- sama paling ada tambahan latest tech, seperti jetpack compose, state management, dll
