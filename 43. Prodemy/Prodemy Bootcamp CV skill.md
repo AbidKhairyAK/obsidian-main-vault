@@ -7,10 +7,10 @@
 - Maven
 - Spring Boot
 - Spring MVC
+- HTML & CSS
 - Git
 
 ### React
-- HTML & CSS
 - Tailwind CSS
 - Javascript ES6
 - NPM
