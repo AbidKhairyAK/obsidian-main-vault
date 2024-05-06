@@ -1,4 +1,3 @@
-![logo](https://ci3.googleusercontent.com/meips/ADKq_NZIF19S0TiPqK8sXRQH2RM8Tt1vbrBcclSFuDp60dFmYvQA7un32OPjEbzKQDEPtc43M63iaTiZOHAPNMPo7cj6rtwuJ5aaGPDFVNt-e3sLARgxQG0bDjfBuo33OjigJA=s0-d-e1-ft#https://static.domainesia.com/assets/images/logo-domainesia-2021-light.png)
 
 # Informasi akun hosting  
 Paket Hosting Super 3.0 - SG

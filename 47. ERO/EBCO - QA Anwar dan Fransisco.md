@@ -1,0 +1,35 @@
+### Kondisi Project
+- fase testing 80%
+- projectnya sudah kebakaran
+	- requirement berkembang
+	- resource terbatas
+	- minta tambahan waktu ke user
+- app pakai node js fullstack
+- postgresql
+- k6 - load test
+- gcp - cloudtran
+- tugas qa
+	- deploy aplikasi ke server SIT
+	- trigger event di cloud
+	- tugasnya cuma merging repo dev -> qa -> client
+- laptop anwar rusak jadi user yg ngerjain
+- testing normal
+- hanya sit
+	- harusnya ada 3
+- server
+- fran web
+- anwar mobile -> udah lolos
+- aplikasi trouble tiketing
+	- ada mail client
+- jobdesc
+	- testing manual
+	- load testing
+	- automation tools bebas
+	- laporan
+	- pen test
+- ga mau anak yg kaku, yg ga mau kerja diluar jobdesc normal
+- pak iwan mengkhawatirkan ada impact pada project jika replacement dilakukan sebelum fase UAT
+- anaknya minta disamakan dengan karyawan internal EBCO, padahal karyawan outsource
+- pran ga mau diatur tidak mau kolaborasi
+- solidarity
+- 
