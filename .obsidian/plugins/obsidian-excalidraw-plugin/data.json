@@ -326,7 +326,7 @@
             "containerId": null,
             "originalText": "Default",
             "lineHeight": 1.27791736616745,
-            "baseline": 16
+            "baseline": 15
           },
           {
             "type": "line",
@@ -1672,7 +1672,7 @@
             "containerId": null,
             "originalText": "Dropdown",
             "lineHeight": 1.27791736616745,
-            "baseline": 13
+            "baseline": 12
           },
           {
             "type": "line",
@@ -2536,7 +2536,7 @@
             "containerId": null,
             "originalText": "Alerts",
             "lineHeight": 1.2499999999999998,
-            "baseline": 46
+            "baseline": 45
           }
         ],
         "id": "ZoS7tm9LHKiFCNqzhsFtY",
@@ -2580,7 +2580,7 @@
             "containerId": null,
             "originalText": "Checkboxes",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "rectangle",
@@ -2805,7 +2805,7 @@
             "containerId": null,
             "originalText": "Radio buttons",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "text",
@@ -3030,7 +3030,7 @@
             "containerId": null,
             "originalText": "Toggle switches",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "text",
@@ -3339,7 +3339,7 @@
             "containerId": null,
             "originalText": "Sliders",
             "lineHeight": 1.25,
-            "baseline": 18
+            "baseline": 17
           },
           {
             "type": "line",
@@ -3676,7 +3676,7 @@
             "containerId": null,
             "originalText": "Forms",
             "lineHeight": 1.2533434718968026,
-            "baseline": 65
+            "baseline": 64
           }
         ],
         "id": "cCTNwqpFC4g9ggfupXteG",
@@ -4842,7 +4842,7 @@
             "containerId": null,
             "originalText": "Breadcrumbs",
             "lineHeight": 1.2553439759932137,
-            "baseline": 29
+            "baseline": 28
           }
         ],
         "id": "1RqIJ4vZo8Twgh0BDpScw",
@@ -7898,7 +7898,7 @@
             "containerId": null,
             "originalText": "Icons",
             "lineHeight": 1.255343975993214,
-            "baseline": 58
+            "baseline": 57
           }
         ],
         "id": "GTsB9qF4Ky1ffxSyyAJLw",
@@ -8248,7 +8248,7 @@
             "containerId": null,
             "originalText": "Images",
             "lineHeight": 1.2543309791429484,
-            "baseline": 58
+            "baseline": 57
           }
         ],
         "id": "keIUK8bCDASJm9WdaaCAw",
@@ -8292,7 +8292,7 @@
             "containerId": null,
             "originalText": "Title Text",
             "lineHeight": 1.272045889101339,
-            "baseline": 54
+            "baseline": 53
           },
           {
             "type": "text",
@@ -8598,7 +8598,7 @@
             "containerId": null,
             "originalText": "Placeholder",
             "lineHeight": 1.272045889101339,
-            "baseline": 54
+            "baseline": 53
           },
           {
             "type": "text",
@@ -8635,7 +8635,7 @@
             "containerId": null,
             "originalText": "text",
             "lineHeight": 1.272045889101339,
-            "baseline": 54
+            "baseline": 53
           }
         ],
         "id": "cpNKX8VEwXhCVe543NPYp",
@@ -9360,7 +9360,7 @@
             "containerId": null,
             "originalText": "Card",
             "lineHeight": 1.272045889101339,
-            "baseline": 54
+            "baseline": 53
           }
         ],
         "id": "sXtZUI6JQN26Y_uo6aDa4",
@@ -11028,7 +11028,7 @@
             "containerId": null,
             "originalText": "Sidebar",
             "lineHeight": 1.25702278544297,
-            "baseline": 59
+            "baseline": 58
           }
         ],
         "id": "3GwU3abUL3P_nIJgzVzXT",
@@ -11190,7 +11190,7 @@
             "containerId": null,
             "originalText": "Headline Text",
             "lineHeight": 1.272045889101339,
-            "baseline": 54
+            "baseline": 53
           },
           {
             "type": "text",
@@ -11378,7 +11378,7 @@
             "containerId": null,
             "originalText": "Phone",
             "lineHeight": 1.272045889101339,
-            "baseline": 54
+            "baseline": 53
           },
           {
             "type": "rectangle",
@@ -11476,7 +11476,7 @@
             "containerId": null,
             "originalText": "Desktop",
             "lineHeight": 1.272045889101339,
-            "baseline": 54
+            "baseline": 53
           }
         ],
         "id": "BJDOn3vbk0gUQe8ktZRpB",
@@ -11547,7 +11547,7 @@
             "containerId": null,
             "originalText": "Tablet",
             "lineHeight": 1.272045889101339,
-            "baseline": 54
+            "baseline": 53
           }
         ],
         "id": "BMhtLd4lLPKABeq2T4gg2",
