@@ -1,0 +1,112 @@
+2024-05-15 11.14 - Dede Zuliana - QA
+
+#### Technical (+) 
+
+- **QA Manual & Automation => 7 tahun => level SR SPV**
+- 
+
+#### Technical (-)  
+
+- 
+
+#### Non Technical  
+
+- sudah jadi QA lead di 3 perusahaan
+- pernah training QA Manual ke QA Automation
+- orangnya likeable
+- dewasa
+
+---
+
+#### Pertanyaan Pembuka
+
+- mengenai pengalaman kerja  
+	- adira - 1 tahun pas
+		- belajar qa
+		- belajar fsd
+		- selenium IDE
+		- project internal adira
+		- website
+	- bank mandiri - 1 tahun lebih
+		- manual
+		- aplikasi atm
+		- server base 24
+		- procurement
+		- mandiri online / livin
+		- manual android v6 - terbaru
+		- hphlm
+		- jira
+	- investri radika jaya - 2.5 tahun
+		- qa engineer
+		- robot framework pas join awal < untuk mobil
+		- ke cypress
+		- ke testcafe < untuk web
+		- ke mocha chai
+		- project wcpl
+		- support handle feedback user
+		- investri thailand dan singapore
+		- jira xray
+	- cakra lada mustika
+		- spv qa engineer
+		- testcafe fe
+		- morina
+		- cakra reward apps
+		- mini royalty
+		- postgre
+		- gitlab
+		- jmeter
+		- blaze meter
+		- postman
+	- edenfarm
+		- merubah tim yg ada ke engineer
+		- cypress
+		- automation api dan frontend
+		- appium python
+		- postman
+		- gitlab
+		- collab devops
+		- run e2e by trigger
+		- qase
+		- testlink
+	- kalbe nutritional
+		- senior spv
+		- 2 orang di tim
+		- analys / manual
+		- cypress
+		- swagger
+		- postman
+		- vmware
+		- qase
+- apply sebagai
+
+
+#### List Pertanyaan Teknis
+
+- Automation / Manual?  
+- Jika automation pakai apa?
+	- = selenium
+	- = katalon
+	- = cucumber
+	- = cypress
+	- disandingkan dengan teknologi/bahasa apa?
+	- apa itu pom?
+- buat test case / cuma eksekusi?
+	- apakah membaca BRD / PRD?
+	- apakah membuat test plan?
+	- test yg dibuat apa aja?
+		- = functional
+		- = stress test
+		- = UAT
+		- = regression
+			- contoh kasus
+		- = smoke test = manual
+- test DB dan API?
+	- query & http method?
+- white, black, grey box?
+	- white bisa baca code
+- postitif & negatif difference?
+- berikan contoh kasus form login & jumlah test case nya
+	- ada input username & password
+	- input min 5 char & max 20 char
+	- symbol, letter, angka wajib ada untuk password
+- Laravel dusk/test php/test Laravel
