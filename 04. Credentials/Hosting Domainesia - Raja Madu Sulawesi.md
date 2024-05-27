@@ -22,6 +22,8 @@ Mohon dimengerti bahwa domain perlu diarahkan ke nameserver kami agar dapat terh
 | Control Panel URL | : [http://verona.sg.domainesia.com/cpanel](http://verona.sg.domainesia.com/cpanel) |
 | Alternatif        | : [http://rajamadusulawesi.com/cpanel](http://rajamadusulawesi.com/cpanel)         |
 
+pass baru: kucrux30
+
 Mohon pastikan tidak ada karakter spasi di belakang username/password ketika melakukan copy-paste.
 
 ## Informasi Server
