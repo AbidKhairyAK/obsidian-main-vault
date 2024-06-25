@@ -1,0 +1,6 @@
+- 
+- perusahaan baru
+- loca loka
+	- project turunan dari perusahaan induk
+- mbak devi seperti penengah
+- 

@@ -1,0 +1,5 @@
+- nama table sesuai dengan yang ada di soal
+- sql ada yg mirip dengan sql-practice
+- fizzbuzz
+- mas fajar experience 9 bulan bisa ngerjain 1 jam 40 menit
+- siapin template test case sebelum mengerjakan soal

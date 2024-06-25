@@ -1,3 +1,0 @@
-- [ ] belanja sayuran di pasar
-- [x] beliiin susu buat adik
-- [ ] kasih makan ayam

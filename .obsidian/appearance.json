@@ -1,9 +1,8 @@
 {
   "accentColor": "",
   "theme": "system",
-  "cssTheme": "Minimal",
+  "cssTheme": "Typewriter",
   "baseFontSize": 16,
-  "enabledCssSnippets": [
-    "disable_codeblock"
-  ]
+  "enabledCssSnippets": [],
+  "showViewHeader": false
 }

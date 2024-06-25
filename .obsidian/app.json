@@ -1,4 +1,7 @@
 {
   "spellcheck": false,
-  "attachmentFolderPath": "06. Attachments"
+  "attachmentFolderPath": "06. Attachments",
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "propertiesInDocument": "source"
 }
