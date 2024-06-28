@@ -254,7 +254,7 @@
             "containerId": null,
             "originalText": "Primary",
             "lineHeight": 1.2217233795537674,
-            "baseline": 15
+            "baseline": 14
           },
           {
             "type": "rectangle",
@@ -528,7 +528,7 @@
             "containerId": null,
             "originalText": "Default",
             "lineHeight": 1.2779173661674499,
-            "baseline": 15
+            "baseline": 14
           },
           {
             "type": "rectangle",
@@ -598,7 +598,7 @@
             "containerId": null,
             "originalText": "Primary",
             "lineHeight": 1.2779173661674494,
-            "baseline": 15
+            "baseline": 14
           },
           {
             "type": "line",
@@ -910,7 +910,7 @@
             "containerId": null,
             "originalText": "Label",
             "lineHeight": 1.2839135734407285,
-            "baseline": 11
+            "baseline": 10
           },
           {
             "type": "text",
@@ -1048,7 +1048,7 @@
             "containerId": null,
             "originalText": "Label",
             "lineHeight": 1.2839135734407285,
-            "baseline": 11
+            "baseline": 10
           },
           {
             "type": "text",
@@ -1085,7 +1085,7 @@
             "containerId": null,
             "originalText": "Error message",
             "lineHeight": 1.2623213426447533,
-            "baseline": 8
+            "baseline": 9
           },
           {
             "type": "rectangle",
@@ -1186,7 +1186,7 @@
             "containerId": null,
             "originalText": "Label",
             "lineHeight": 1.2839135734407285,
-            "baseline": 11
+            "baseline": 10
           },
           {
             "type": "text",
@@ -1223,7 +1223,7 @@
             "containerId": null,
             "originalText": "Success message",
             "lineHeight": 1.2623213426447533,
-            "baseline": 8
+            "baseline": 9
           },
           {
             "type": "ellipse",
@@ -1449,7 +1449,7 @@
             "containerId": null,
             "originalText": "Input Fields",
             "lineHeight": 1.2606658312235213,
-            "baseline": 30
+            "baseline": 31
           }
         ],
         "id": "0L-jehO5d054REsWbQGUc",
@@ -2580,7 +2580,7 @@
             "containerId": null,
             "originalText": "Checkboxes",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "rectangle",
@@ -2805,7 +2805,7 @@
             "containerId": null,
             "originalText": "Radio buttons",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "text",
@@ -3030,7 +3030,7 @@
             "containerId": null,
             "originalText": "Toggle switches",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "text",
@@ -3339,7 +3339,7 @@
             "containerId": null,
             "originalText": "Sliders",
             "lineHeight": 1.25,
-            "baseline": 17
+            "baseline": 18
           },
           {
             "type": "line",
@@ -8366,7 +8366,7 @@
             "containerId": null,
             "originalText": "Subtitle Text",
             "lineHeight": 1.2500000000000002,
-            "baseline": 19
+            "baseline": 18
           }
         ],
         "id": "VwLaNGTszqQkZ1mgdt9uo",
@@ -10414,7 +10414,7 @@
             "containerId": null,
             "originalText": "Tabs",
             "lineHeight": 1.267297206031984,
-            "baseline": 87
+            "baseline": 86
           }
         ],
         "id": "Ve26nYIlPh4hrKT8KFV_r",
@@ -11227,7 +11227,7 @@
             "containerId": null,
             "originalText": "Subtitle text can be a bit longer",
             "lineHeight": 1.2555894754182269,
-            "baseline": 19
+            "baseline": 18
           },
           {
             "type": "rectangle",
