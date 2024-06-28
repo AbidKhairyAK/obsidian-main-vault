@@ -11,6 +11,13 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 **- Laravel Octane Performance Benchmarking -**
 
 ---
+## Conclusion / TL;DR
+
+- performance dari RoadRunner yang paling bagus, dengan max 51 Requests/seconds 
+- dengan Laravel Octane, aplikasi Laravel dapat menerima load 7x lebih banyak dibandingkan dengan konfigurasi normal menggunakan PHP FPM
+- entah mengapa utilisasi cpu max di 12%, padahal beberapa request sudah mulai timeout. kemungkinan throttlenya ada di konfigurasi NAT server
+
+---
 ## What Is Laravel Octane
 
 [Laravel Octane](https://github.com/laravel/octane) supercharges PHP application's performance by serving it using high-powered application servers, including [FrankenPHP](https://frankenphp.dev/), [Open Swoole](https://openswoole.com/), [Swoole](https://github.com/swoole/swoole-src), and [RoadRunner](https://roadrunner.dev). 
@@ -67,7 +74,7 @@ Options:
 - Requests Per Seconds
 - Average Latency
 - Timed out Requests
-- Host CPU Single Core Avg Usage % 
+- Host CPU Avg Usage % 
 - Host RAM Avg Usage %
 
 ---
@@ -79,7 +86,25 @@ Options:
 	- wrk 1 thread & 12 concurrent connections
 	- wrk 4 thread & 32 concurrent connections => host server throttle
 - duration of each test is 30 seconds
-- every test will be executed 2 times, first run is dry run / warm up, and the second run is used as final result
+- every test will executed 2 times, highest value will be used as final result
+
+---
+## WRK Command
+
+Here wrk commands that will be user for our testing:
+```
+# target homepage, 1 thread, 12 connection, 30 seconds
+wrk -t1 -c12 -d30s http://nat3.reconv.pl:5825/home
+
+# target homepage, 4 thread, 32 connection, 30 seconds
+wrk -t4 -c32 -d30s http://nat3.reconv.pl:5825/home
+
+# target course detail, 1 thread, 12 connection, 30 seconds
+wrk -t1 -c12 -d30s http://nat3.reconv.pl:5825/courses/1
+
+# target course detail, 4 thread, 32 connection, 30 seconds
+wrk -t4 -c32 -d30s http://nat3.reconv.pl:5825/courses/1
+```
 
 ---
 <!-- _class: lead -->
@@ -90,40 +115,40 @@ Options:
 
 | Stack      | Total Reqs | Reqs/Sec | Avg Latency | Timeout | CPU % | RAM % |
 | ---------- | ---------- | -------- | ----------- | ------- | ----- | ----- |
-| PHP-FPM    |            |          |             |         |       |       |
-| FrankenPHP |            |          |             |         |       |       |
-| RoadRunner |            |          |             |         |       |       |
+| PHP-FPM    | 210        | 7        | 1.62s       | 17      | 12%   | 263M  |
+| FrankenPHP | 1658       | 55       | 235ms       | 0       | 12%   | 455M  |
+| RoadRunner | 1705       | 56       | 224ms       | 0       | 12%   | 461M  |
 
 ---
 ## Blank Page - 32 Connection
 
 | Stack      | Total Reqs | Reqs/Sec | Avg Latency | Timeout | CPU % | RAM % |
 | ---------- | ---------- | -------- | ----------- | ------- | ----- | ----- |
-| PHP-FPM    |            |          |             |         |       |       |
-| FrankenPHP |            |          |             |         |       |       |
-| RoadRunner |            |          |             |         |       |       |
+| PHP-FPM    | 221        | 7        | 1.50s       | 31      | 12%   |       |
+| FrankenPHP | 1478       | 49       | 641ms       | 4       | 12%   |       |
+| RoadRunner | 1541       | 51       | 620ms       | 0       | 12%   |       |
 
 ---
 ## Course Detail Page - 12 Connection
 
 | Stack      | Total Reqs | Reqs/Sec | Avg Latency | Timeout | CPU % | RAM % |
 | ---------- | ---------- | -------- | ----------- | ------- | ----- | ----- |
-| PHP-FPM    |            |          |             |         |       |       |
-| FrankenPHP |            |          |             |         |       |       |
-| RoadRunner |            |          |             |         |       |       |
+| PHP-FPM    | 208        | 7        | 1.56s       | 36      | 12%   |       |
+| FrankenPHP | 1217       | 40       | 305ms       | 0       | 13%   |       |
+| RoadRunner | 1419       | 47       | 259ms       | 0       | 13%   |       |
 
 ---
 ## Course Detail Page - 32 Connection
 
 | Stack      | Total Reqs | Reqs/Sec | Avg Latency | Timeout | CPU % | RAM % |
 | ---------- | ---------- | -------- | ----------- | ------- | ----- | ----- |
-| PHP-FPM    |            |          |             |         |       |       |
-| FrankenPHP |            |          |             |         |       |       |
-| RoadRunner |            |          |             |         |       |       |
+| PHP-FPM    | 208        | 7        | 1.53s       | 44      | 12%   |       |
+| FrankenPHP | 1275       | 42       | 739ms       | 6       | 13%   |       |
+| RoadRunner | 1380       | 45       | 679ms       | 3       | 12%   |       |
 
 ---
-## Conclusion
+## Conclusion / TL;DR
 
-
-idle: 200
-used: 432
+- performance dari RoadRunner yang paling bagus, dengan max 51 Requests/seconds 
+- dengan Laravel Octane, aplikasi Laravel dapat menerima load 7x lebih banyak dibandingkan dengan konfigurasi normal menggunakan PHP FPM
+- entah mengapa utilisasi cpu max di 12%, padahal beberapa request sudah mulai timeout. kemungkinan throttlenya ada di konfigurasi NAT server

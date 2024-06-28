@@ -1,0 +1,10 @@
+{
+  "CHROME_PATH": "C:\\Users\\PSM\\AppData\\Local\\Chromium\\Application\\chrome.exe",
+  "ThemePath": "",
+  "EnableHTML": false,
+  "MathTypesettings": "mathjax",
+  "HTMLExportMode": "bare",
+  "EXPORT_PATH": "C:\\Users\\PSM\\Downloads\\",
+  "EnableSyncPreview": true,
+  "EnableMarkdownItPlugins": false
+}
