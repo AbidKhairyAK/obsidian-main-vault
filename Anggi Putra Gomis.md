@@ -1,0 +1,118 @@
+
+- Jira
+- Trello
+
+
+- 2010 - binus
+	- part time
+	- research iOS 
+	- buat fitur/modul pada aplikasi learning management system
+	- ngebuat aplikasi untuk skripsi
+- 2011 - katapel
+	- wardah - e - katalog
+	- ios ipad
+	- semacam e-book
+	- ui kit
+	- objective c
+	- xcode
+- xsis
+	- iOS
+	- UI Kit
+	- Objective C
+	- dari dapat design
+	- langsung kirim file .ipa ke device yang terdaftar
+	- Aplikasi Medical Record untuk iPad
+- andtechno
+	- aplikasi untuk bca
+		- phonebook internal
+	- UI Kit
+	- Objective C
+	- XCode
+	- gesek
+		- aplikasi kupon / promo
+		- public
+- envol
+	- perusahaan prancis
+	- software house
+	- objective c
+	- ui kit
+	- xcode
+	- digital herbarium
+		- herbarium digital
+		- nemu bunga bagus - difoto - diupload
+		- coret2
+		- pasang stiker
+	- world marina
+		- bisa tau port sekitar tempat singgah untuk pengguna yacht - 
+		- map bawaan si apple
+- teralogic
+	- QLUE
+	- aplikasi untuk nampung aspirasi keluhan warga jakarta
+	- masuk ke dashboard pemerintah
+	- bisa anonymous
+	- objective c
+	- ui kit
+	- ada pengalaman deploy ke appstore
+- third base venture
+	- perusahaan bawaan air asia
+	- objective c
+	- ui kit
+	- traveler buddy
+		- startup
+		- untuk itinerary
+		- ada tim
+		- git
+	- tune hotel
+		- aplikasi air asia untuk nyari hotel
+		- ada tim
+		- git
+	- alfagift
+		- buat alfamart
+- freelance - garuda
+	- bug fix
+	- nambah fitur
+	- iOS
+	- objective c
+	- ui kit
+- BAMS - 5 tahun
+	- startup pada bidang property management
+	- client based
+	- aplikasi white label, eksklusif untuk apartement terkait
+		- aplikasi dashboard building management
+			- housekeeping
+			- finance
+		- aplikasi untuk penghuni
+			- tagihan bulanan
+			- ipl
+			- request service
+	- publish ke appstore
+	- brainstorming ide
+	- ke lapangan untuk nyatat requirement user
+	- ikut presentasi ke client
+	- tim engineering
+	- kadang turun jadi
+	- ngasih masukan
+	- postman
+	- swagger
+	- ikut test manual
+- klikdokter
+	- revamp aplikasi klikdokter
+	- koding ulang
+	- swift
+	- ui kit
+	- xcode
+	- 5 - 8 tim
+	- 2 aplikasi public
+	- 1 sebagai pasien - klikdokter
+	- 1 sebagai dokter - klikmed
+	- bug fixing
+	- testing
+	- dapet challenge untuk jadi lead iOS atau PM
+	- ngambil PM
+	- handle dengan bisnis unit lain
+	- gather requirement
+	- SDLC campur
+	- agile atau waterfall berdasarkan fitur yang masuk
+		- paham
+	- challenge jadi BA
+	- 
