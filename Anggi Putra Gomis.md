@@ -2,6 +2,9 @@
 - Jira
 - Trello
 
+bisa senior ios dev
+bisa tpm - 1 tahun
+
 
 - 2010 - binus
 	- part time
@@ -22,6 +25,8 @@
 	- dari dapat design
 	- langsung kirim file .ipa ke device yang terdaftar
 	- Aplikasi Medical Record untuk iPad
+	- crashlytic
+	- websocket
 - andtechno
 	- aplikasi untuk bca
 		- phonebook internal
@@ -45,6 +50,7 @@
 	- world marina
 		- bisa tau port sekitar tempat singgah untuk pengguna yacht - 
 		- map bawaan si apple
+		- geolocation
 - teralogic
 	- QLUE
 	- aplikasi untuk nampung aspirasi keluhan warga jakarta
@@ -53,6 +59,9 @@
 	- objective c
 	- ui kit
 	- ada pengalaman deploy ke appstore
+	- websocket
+		- chatting
+	- geolocation
 - third base venture
 	- perusahaan bawaan air asia
 	- objective c
@@ -68,6 +77,8 @@
 		- git
 	- alfagift
 		- buat alfamart
+	- websocket
+		- chatting
 - freelance - garuda
 	- bug fix
 	- nambah fitur
@@ -95,6 +106,12 @@
 	- postman
 	- swagger
 	- ikut test manual
+	- sistem OTP
+	- ada firebase
+		- auth
+	- onesignal
+	- websocket
+		- chatting
 - klikdokter
 	- revamp aplikasi klikdokter
 	- koding ulang
@@ -108,11 +125,18 @@
 	- bug fixing
 	- testing
 	- dapet challenge untuk jadi lead iOS atau PM
-	- ngambil PM
+	- ngambil TPM / 
 	- handle dengan bisnis unit lain
 	- gather requirement
 	- SDLC campur
 	- agile atau waterfall berdasarkan fitur yang masuk
 		- paham
 	- challenge jadi BA
-	- 
+		- cari sumber revenue yang lain
+	- challenge jadi SA
+		- ngebuat flow chart
+		- dan uml
+	- sistem OTP
+
+- nggak suka library karena ukuran file akhirnya jadi gede
+- ngaruh
