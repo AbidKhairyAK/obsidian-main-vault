@@ -101,7 +101,7 @@ bisa tpm - 1 tahun
 	- ke lapangan untuk nyatat requirement user
 	- ikut presentasi ke client
 	- tim engineering
-	- kadang turun jadi
+	- kadang turun jadi trainer
 	- ngasih masukan
 	- postman
 	- swagger
