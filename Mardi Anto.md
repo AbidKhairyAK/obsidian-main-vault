@@ -1,0 +1,86 @@
+
+
+2024-07-11 13.12 - Mardi Anto - Java Spring Boot
+
+#### Technical (+) 
+
+- **Java Spring Boot => 5 tahun lebih => level MID to SR**  
+- 
+
+#### Technical (-)  
+
+- 
+
+#### Non Technical  
+
+- 2 tahun terakhir pakai quarkus, jadi spring bootnya agak lupa
+- 
+
+---
+
+#### Pertanyaan Pembuka
+
+- mengenai pengalaman kerja  
+	- smk wikrama bogor rpl
+	- sedang kuliah
+	- sbmart - perusahaan retail - 2018 - 2020
+		- java smart erp
+			- scan barcode gudang
+			- java desktom
+			- mysql
+	- pt cic - 2019 - 2021
+		- BI -berkaitan dengan bisni
+			- spring boot
+			- spring mvc
+			- ada html css
+			- pakai bootstrap
+			- thymeleaf
+			- github
+			- gitlab
+			- jira
+			- scrum agile
+	- tokyo merin - 1 tahun
+		- spring boot
+		- activity management system
+	- pt indocyber - mandala multi finance - 2 tahun
+		- spring boot
+		- quarkus
+		- apache kafka
+		- postgresql
+		- oracle
+		- jenkins
+		- docker
+- apply sebagai
+
+
+#### List Pertanyaan Teknis
+
+- DI / IOC
+	- kurang tau dependency injection, tapi tau anotasi inject di quarkus
+- MVC
+	- tau
+- Consume REST
+	- di quarkus ada kong
+	- tau okhttp
+- Security / JWT
+	- tau
+	- pernah
+	- tau refresh token
+- Microservice
+	- tau
+	- Integrasi dgn system lain (non REST)
+		- kafka
+		- http langsung
+	- pub/sub
+	- Messaging
+	- API gateway
+		- kurang paham
+	- Database tiap service, atau 1 database untuk semua service
+	- gRPC / gson
+	- Terkait penentuan sebuah service => Seberapa besar, besar itu? Seberapa kecil, kecil itu?
+- Layering architecture
+- docker
+	- dalam container ada beberapa image
+	- hampir bener tapi kurang tepat, secara praktik masih ok
+- linux
+	- belum
