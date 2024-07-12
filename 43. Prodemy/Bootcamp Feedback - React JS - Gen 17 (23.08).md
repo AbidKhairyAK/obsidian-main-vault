@@ -37,3 +37,10 @@
 - pembagian jadwal / metode belajar
 	- sekarang penjelasan mater di sore dan review tugas di pagi, jadinya kurang enak mau nanya2 karena ketika ngerjain tugas udah di luar office hour  
 
+
+### QA - Materi Yg Kurang
+
+- step to reproduce
+- jobdesc / tugas seorang qa
+	- ngawasin ketika udah deploy, maintenance, garansi
+	- 
