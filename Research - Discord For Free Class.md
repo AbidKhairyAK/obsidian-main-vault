@@ -9,7 +9,6 @@
 ### something to notes:
 - mainly focused on google classroom
 - practice using coderbyte
-- 
 
 ### category ideas:
 - as

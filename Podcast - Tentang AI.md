@@ -14,7 +14,7 @@ Masa Depan AI:
 
 1. Pernah nggak sih lo ngerasa belajar jadi lebih gampang gara-gara teknologi? Gimana AI bisa bantu kita belajar lebih efektif?
    - pernah
-   - contoh LLM/NLP chatgpt, gemini
+   - yg akan dibahas text-to-image AI & LLM/NLP chatgpt, gemini
    - efektif untuk hal basic dan sekedar mencari info
    - tidak disarankan untuk advance / specific
    - mending googling / bertanya ke forum
