@@ -1,4 +1,4 @@
-### source:
+### Source:
 - https://www.reddit.com/r/webdev/comments/1ci05e5/how_to_stay_mentally_healthy_in_current_ai/
 - https://www.reddit.com/r/datascience/comments/118vpor/i_feel_so_stressed_to_keep_up_withthis_fastpaced/
 - https://www.reddit.com/r/ProductManagement/comments/184hnzb/how_do_you_keep_up_with_the_trends_and_pace_in_ai/
@@ -6,7 +6,7 @@
 - https://www.reddit.com/r/ArtificialInteligence/comments/1ceaftk/whats_the_most_practical_thing_you_have_done_with/
 - https://www.reddit.com/r/ArtificialInteligence/comments/1c6lpf9/how_is_ai_being_improved_from_here/
 
-## Notes
+### Notes
 
 #### how to stay mentally healthy in current AI evolution and surrounding FOMO as Frontend Dev
 
