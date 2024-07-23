@@ -23,5 +23,12 @@
 - Optimasi API
 - Sama ditanga juga yang dicantumin di cv
 
+### Dari X
+- Tugas akhir/skripsi dikuliah topiknya apa
+- Selama bootcamp di prodemy apa saja yang sudah dipelajari
+- Istilah-istilah di java/spring dan git version control
+- SDLC/Siklus hidup pengembangan software
+- Pertanyaannya kurang lebih dari apa yang ada di CV kita
+
 ### Tambahan dari Abid
 - pelajari istilah Dependency Injection, Inversion of Control, Bean, maven

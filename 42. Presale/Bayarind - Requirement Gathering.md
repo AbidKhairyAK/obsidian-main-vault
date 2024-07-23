@@ -1,0 +1,26 @@
+- ada 4 lowongan
+	- be
+	- fe
+	- qa
+	- pm
+- 2 tahun exp, dibawah dikit gpp
+- stack
+	- be: go java node
+	- fe: react vue jquery bootstrap
+	- qa: automation & ci cd & tc management
+	- pm : task management
+- jumlah orang? berapa orang per teknologi?
+	- setiap posisi 1 orang
+	- to be confirmed
+- minimal pendidikan?
+	- minimal d3
+- full wfo, di kantor client, rencana di briliant
+- lama project 6 bulan
+- test user? ditampung
+	- iv dengan head of engineer
+- jam kerja normal 9-5
+- kondisi overtime?
+	- ikut kita
+- perangkat kerja
+	- dari outsource
+	- ikut kita
