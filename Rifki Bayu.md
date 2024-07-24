@@ -1,0 +1,13 @@
+- lulusan si gundar
+- QA - tokped - aug 2021 - des 2023
+	- manual test
+	- postman
+	- jira
+	- tools internal
+- qa - feb - may 2024
+	- manual
+- juaracoding
+	- automation
+	- java
+	- selenium
+- 
