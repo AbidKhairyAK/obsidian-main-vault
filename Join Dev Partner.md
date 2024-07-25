@@ -1,0 +1,47 @@
+- fe react / vue
+	- mulai dari slicing
+	- ada paham sql
+	- bisa buat api pakai sql
+- nest / golang
+	- stored procedure, function, trigger
+	- message broker & devops
+	- salah satu aja
+	- prefer nest js
+	- fungsi backend sangat minim
+- fullstack
+	- optional
+	- bisa menyusul
+	- paham  aja, nggak usah bisa sampai setup sendiri ci cd
+- deliverablenya pekerjaan
+	- task list
+	- per modul
+	- wbs
+- jumlah orang
+	- kontrak sesuai dengan jumlah quantity orang
+- nggak ada masalah onsite / remote
+	- pertemuan onsite 2 minggu sekali
+- udah ada timeline nya
+	- nunggu persetujuan dari kita dulu
+- sebisa mungkin brd nya udah dilock dengan user
+- hybrid waterfall agile, ada SRS per modul
+- pricing scheme?
+	- commercialnya monthly
+	- tapi harus sesuai timeline
+	- ada update wbs jika keluar dari timeline
+- project management dihandle di sisi kita
+- pakai jira
+- fixing dan debugging masuk ke timeline SIT
+- definition of done
+	- dev bertanggung jawab ketika sit dan uat ketika ada bug
+- pendidikan
+	- nggak ada concern
+	- jam terbang
+- interview
+	- langsung
+	- liat repo
+	- dan portfolio
+- Target kickoff
+- 1 - 2 orang, bisa fe atau fullstack
+- level mid, exp 2 - 3 tahun
+- intinya bisa kerja dan proofen, ga papa anak kuliah intinya jam terbang banyak
+- 
