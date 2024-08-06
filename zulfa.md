@@ -1,0 +1,30 @@
+- ti
+- qa 2 tahun
+- refactory - sleman
+	- 1 tahun lebih 1 bulan
+	- learn dan coach web
+		- web untuk  pendidikan singapore
+	- aladin mall
+		- mnc group
+		- e commerce
+		- android ios
+	- ???
+		- testing moible
+	- kurirmu
+		- mobile app android
+	- mpm portal vendor
+		- web
+	- semua manual
+	- beberapa automation
+		- katalon
+		- groovy java campuran
+		- 
+- job seeker company bali
+	- internal
+	- job seeker live android ios
+	- job seeker app android ios
+	- job seeker partner android ios
+	- web project external superindo, buat carreer site dan hr
+	- manual dan automation
+	- robot framework
+		- pyhton
