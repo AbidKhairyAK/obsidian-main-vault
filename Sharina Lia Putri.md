@@ -1,0 +1,89 @@
+2024-08-08 16.11 - Sharina Lia Putri - QA
+
+#### Technical (+) 
+
+- **QA => tahun => level JR to MID**  
+- 
+
+#### Technical (-)  
+
+- 
+
+#### Non Technical  
+
+- 
+
+---
+
+#### Pertanyaan Pembuka
+
+- mengenai pengalaman kerja
+	- qa 3 tahun
+	- bank mandiri
+		- 2 tahun
+		- qa manual
+		- pakai postman
+		- livin - mobile
+			- uat
+			- sit
+			- buat test script / test case
+			- report ke jira
+			- ios dan android
+			- stress testing - ptr production trial run
+				- di beta
+				- 
+	- bank yiob
+		- 1 tahun
+		- qa
+		- project consulation - migrasi data citibank
+			- validasi data payment
+		- as.400
+		- jira
+- apply sebagai
+
+
+#### List Pertanyaan Teknis
+
+- Automation / Manual?  
+- Jika automation pakai apa?
+	- = selenium
+	- = katalon
+	- = cucumber
+	- = cypress
+	- disandingkan dengan teknologi/bahasa apa?
+	- apa itu pom?
+- buat test case / cuma eksekusi?
+	- apakah membaca BRD / PRD?
+		- nggak baca
+		- belum
+	- apakah membuat test plan?
+	- test yg dibuat apa aja?
+		- = functional
+		- = stress test
+			- paham
+			- lagi belajar jmeter
+		- = UAT
+			- paham
+		- = regression
+			- setelah pembaruan
+			- memastikan tidak ada bug baru
+			- contoh kasus
+		- = smoke test = manual
+			- fitru2 penting
+- test DB dan API?
+	- pernah pakai postman untuk api, tapi tidak dominan
+	- tau beda post dan get
+	- query & http method?
+	- mysql
+	- query crud basic 
+	- no join
+- white, black, grey box?
+	- white bisa baca code
+	- tau
+- postitif & negatif difference?
+	- 
+- berikan contoh kasus form login & jumlah test case nya
+	- ada input username & password
+	- input min 5 char & max 20 char
+	- symbol, letter, angka wajib ada untuk password
+- Laravel dusk/test php/test Laravel
