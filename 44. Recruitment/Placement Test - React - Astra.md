@@ -17,7 +17,7 @@
 - mengenai browsing, lebih baik tanyakan dulu ke interviewernya
 - kalau mau latihan, coba solve soal React di Hackerrank
 
-
+ 
 ### HR Astra International
 - Pilgan HTML CSS 5 soal
 - Logic JS 2 soal
