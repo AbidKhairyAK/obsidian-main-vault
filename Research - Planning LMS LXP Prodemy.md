@@ -67,12 +67,42 @@
 #### OpenEDX
 
 ###### Note
-- 
+- self host docker
+- instalasi pakai tutor, dan manajemennya pakai tutor cli
+- MIT & Harvard standard
+- built in feature lumayan kompleks
+- aplikasi terbagi jadi 2
+	- LMS => tempat belajarnya peserta
+	- CMS => tempat guru buat materi
+- LMS ada aplikasi mobilenya
+- customizable, perlu tau linux + js + python
+	- theme
+	- xblock (component dalam lesson)
+- steep learning curve
 
-###### Site Features
-- 
-
-###### Dashboard Features
+###### Features
+- LMS & CMS
+- reusable content library
+- mixed content in one lesson (bisa nyampur text, video dan soal di satu halaman)
+- course structure
+	- course
+		- section
+			- subsection
+				- unit (lesson)
+					- component (content)
+- components
+	- Components (also known as [XBlocks](http://local.edly.io/xblock/07c8d8e217e04f8ca2f10bbd3cb36980)) are specific learning objects and include, but are not limited to:
+		- **Videos**
+		- **HTML** (text, images, iframed content)
+		- **Basic CAPA Problems** (such as multiple choice or text entry)
+		- **Advanced Problems** (such as drag-and-drop problems or Javascript assessments)
+		- **Peer- and staff-assessed assignments** (referred to as Open Response Assignments, or ORA)
+		- **Third-party XBlocks** (plugin components, such as Polls, Surveys, or integrations with third-party software)
+- LMS key features:
+	- **The course outline**
+	- **The learning sequence**
+	- **Learner progress**
+	- **The Instructor dashboard**
 - 
 
 ---
