@@ -1,0 +1,112 @@
+- bootcamp - 2022
+	- asiatek
+	- sqa
+	- juni - agustus
+	- manual
+	- automation python selenium
+- aksa mandiri
+	- qa functional testing
+	- mysql
+	- ibm as.400
+		- buat ngecek data nasabah
+	- katalon
+	- 3 bulan
+	- nggak suka karena lebih ke bpa jobdesc
+- astra internation - toyota tso
+	- manual automation
+	- android ios
+	- test plan
+	- scenratio
+	- uat
+	- dokumentasi testing dan bugs
+	- smoke test
+	- regression test
+	- wdio
+	- appium
+	- mysql
+	- jira
+	- 1 tahun lebih
+- daihatsu - 9  bulan
+	- testing aplikasi web
+	- sap hana
+	- wdio
+	- playwright
+	- k6
+	- postman
+	- terakhir agustus
+
+2024-09-03 10.00 - ryan hidayat - QA
+
+#### Technical (+) 
+
+- **QA => tahun => level**  
+- 
+
+#### Technical (-)  
+
+- 
+
+#### Non Technical  
+
+- kadang ngeles kalau nggak tau
+
+---
+
+#### Pertanyaan Pembuka
+
+- mengenai pengalaman kerja  
+- apply sebagai
+
+
+#### List Pertanyaan Teknis
+
+- Automation / Manual?  
+- Jika automation pakai apa?
+	- = selenium
+	- = katalon
+	- = cucumber
+	- = cypress
+	- disandingkan dengan teknologi/bahasa apa?
+	- apa itu pom?
+		- udah pakai pom tapi tidak tau konsep nya
+	- selector
+		- tau
+		- record playwright
+		- record wdio adds-on
+- buat test case / cuma eksekusi?
+	- apakah membaca BRD / PRD?
+		- grooming
+		- bpa menjelaskan fitur
+		- share link dari bps
+	- apakah membuat test plan?
+		- test plan kumpulan dari test scenario
+		- excel ke jira xray
+	- test yg dibuat apa aja?
+		- = functional
+		- = stress test
+		- = UAT
+			- tes dengan user
+		- = regression
+			- contoh kasus
+			- jarang dipergunakan 
+			- kurang tau detailnya
+		- = smoke test = manual
+			- jika ada publish reguler
+			- untuk fitur yg di develop
+			- setelah production
+- test DB dan API?
+	- query & http method?
+	- postman
+	- mysql
+	- sap hana
+	- join
+- white, black, grey box?
+	- white bisa baca code
+- postitif & negatif difference?
+	- tau
+	- agar tidak celah
+- berikan contoh kasus form login & jumlah test case nya
+	- ada input username & password
+	- input min 5 char & max 20 char
+	- symbol, letter, angka wajib ada untuk password
+- Laravel dusk/test php/test Laravel
