@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Catppuccin",
   "baseFontSize": 16,
   "enabledCssSnippets": [],
   "showViewHeader": false
