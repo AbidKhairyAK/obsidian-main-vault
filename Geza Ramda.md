@@ -1,0 +1,116 @@
+- tangsel
+- qa
+- d4 rpl
+- 2 tahun 7 bulan
+- aino
+	- 1 tahun 4 bulan
+	- qa hybrid manual automation
+	- selenium python - nggak full di automation - lebih banyak porsi manual - 3  bulan
+	- excel
+	- clickup
+	- sistem pembayaran parking gbk
+	- sistem transaksi pembayaran bus
+- bank cmbniaga
+	- 1 tahun
+	- full automation
+	- katalon - groovy - 3 bulan
+	- migration ke uftone - vbscript - 9 bulan - koding manual - record objectnya kurang pas
+	- project ngb - transactional - mirip mobile banking
+	- ada mobile nya 
+	- digital lab untuk inspector/record
+
+2024-09-19 16.09 - Geza Ramda - QA
+
+#### Technical (+) 
+
+- **QA => tahun => level**  
+- 
+
+#### Technical (-)  
+
+- 
+
+#### Non Technical  
+
+- to the point
+- lumayan paham dengan apa yg dikerjakan
+
+---
+
+#### Pertanyaan Pembuka
+
+- mengenai pengalaman kerja  
+- apply sebagai
+
+
+#### List Pertanyaan Teknis
+
+- Automation / Manual?  
+- Jika automation pakai apa?
+	- = selenium
+	- = katalon
+	- = cucumber
+	- = cypress
+	- disandingkan dengan teknologi/bahasa apa?
+	- apa itu pom?
+		- kurang tau, tapi udah praktekin
+- buat test case / cuma eksekusi?
+	- test case diprovide dari tim manual
+		- ada applicable to automate status
+	- aino buat test case sendiri
+	- apakah membaca BRD / PRD?
+		- buat test case berdasarkan kick off meeting
+		- requirement disampaikan disini
+		- pernah lihat BRD
+			- requirement dari ssitem
+			- apa aja yg diperluin
+			- struktur UI
+			- UML gatau
+			- Use Case -> kurang tepat
+	- apakah membuat test plan?
+	- test yg dibuat apa aja?
+		- = functional
+		- = stress test
+		- = UAT
+			- tahap akhir
+			- dicoba oleh pengguna akhir
+			- berdasarkan pengguna vs berdasarkan requirement
+			- lebih ke experience
+		- = regression
+			- contoh kasus
+			- sebelum naik ke production
+			- env dev sit uat prod
+		- = smoke test = manual
+			- belum pernah
+			- dilakuin di awal
+			- verify function
+		- selain regression
+			- pen test
+				- testing keamanan
+			- performance test
+		- setelah rf qa / self testing
+			- ready to test
+- test DB dan API?
+	- query & http method?
+	- postman
+		- nggak nulis test case
+		- ngecek jalan nggak
+		- tau get / post
+	- test db
+		- ngecek data masuk atau nggak
+		- dbeaver -> postgre
+		- delete dan filter by query
+		- query join jarang pakai
+		- tau konsep join
+- white, black, grey box?
+	- white bisa baca code
+	- black box -> input output
+	- white box -> struktur kode
+- postitif & negatif difference?
+	- tau
+	- mastiin verify (validasi) nya
+- berikan contoh kasus form login & jumlah test case nya
+	- ada input username & password
+	- input min 5 char & max 20 char
+	- symbol, letter, angka wajib ada untuk password
+- Laravel dusk/test php/test Laravel
