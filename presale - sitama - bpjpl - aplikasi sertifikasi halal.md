@@ -1,0 +1,55 @@
+- aplikasi sertifikasi halal
+- aplikasi existing kotor
+- low performance karena banyak yg akses juga
+- butuh banyak programmer
+- query nya sangat tidak efisien
+- bukan api
+- 1 query bisa jalan 5 second
+- aplikasi masih monolitich -> .NET -> stored procedure -> indexing ga jalan
+- 100 lebih tabel / stored procedure
+- target: revamp
+- microservice
+- sql, golang, next js, redis -> mandatory -> multithread -> seo
+- besok diminta untuk present solusi dari mereka
+- 20 golang
+	- ngerti docker
+	- ngerti redis
+	- ngerti sql
+- 10 next js / react
+	- latar belakang react
+- project manager? prd? qa?
+	- udah punya SA senior
+	- udah ada user guide, tapi tidak bisa mewakili dokumentasi
+	- ada masterplan, garis besar arsitektur
+- postgre / sql server???
+- constraint: waktu 2 bulan
+	- untuk sistem prioritas / mvp
+	- selainnya 2025
+- level???
+- kantornya di pondok gede, asrama haji
+- perusahaannya masuk lpse??? kalau iya nggak perlu tender
+- beberapa bendera? bagi2 kue
+- 3 modul
+	- manajerial
+	- author
+	- end user -> mvp
+- rencana  pakai minio -> sekarang nyimpen media di app server
+- komposisi dari psm
+	- pm dari kita, koord dengan sa mereka
+- sambil jalan app baru, optimasi existing
+
+### Important Information
+- Stack yang dipakai beserta detailnya?
+- Tahun pengalaman?
+- Latar pendidikan?
+- Jumlah orang yang dibutuhkan?
+	- 20 orang
+- Detail projek?
+- assessment??
+	- dari psm aja
+- next js, ngambil dari orang react??
+	- bisa ngambil latar belakang react
+- perngerjaan
+	- onsite/remote??? belum dibahas, tapi prefer remote aja
+- fasilitas
+	- sepertinya dari psm
